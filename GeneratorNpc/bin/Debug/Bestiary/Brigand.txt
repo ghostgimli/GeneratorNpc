@@ -1,0 +1,16 @@
+Brigand
+Warrior
+13_11_9_10_10_11
+1_0_0
+1d6_30
+0_0_0_1_5_0
+0.5
+neutral_chaotic-neutral_chaotic-evil_evil
+common
+Кожаный доспех(AC+2 max dex +6 pen 0);type light_Кольчуга(AC+4 max dex +4 pen -2);type light_Чешуйчатый доспех(AC+4 max dex +3 pen -4) type middle 
+Dual wield Короткий меч 1d6;крит 19-20/x2,  кинжал 1d4;крит 19-20/x2_Короткий меч 1d6;крит 19-20/x2,  короткий лук 1d6;крит x3_Дубина 1d6;крит x2;дальность 3 метра
+Стойкость (+3 хита)_Владение двумя оружиями(-2/-2)_Скрытность (+2 к проверком Move Silently и Hide)
+Handle Animal (+4), Hide (+1), Jump (+4), Move Silently (+1), Ride (+4)
+нет
+нет
+да

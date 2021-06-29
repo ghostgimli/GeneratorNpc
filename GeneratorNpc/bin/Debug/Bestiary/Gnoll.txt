@@ -1,0 +1,16 @@
+Gnoll
+Warrior
+15_10_13_8_11_8
+4_0_0
+2_8_30
+3_2_0_1_5_1
+1
+chaotic-evil
+Gnoll
++2 leather armor; type light, +2 heavy steel shield, [+1] natural
+Battleaxe +3 melee (1d8+2/×3)_shortbow +1 ranged (1d6/×3)
+Power Attack(позволяет переводить bab в урон(БЕЗ СИЛЫ))
+Listen +2, Spot +3
+нет
+Darkvision 60 ft 
+нет
